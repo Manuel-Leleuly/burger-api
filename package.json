@@ -1,0 +1,26 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "this is a practice to learn how to create a simple mock API. Big thanks to **Ania Kubow** for providing the course",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "json-server db.json",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuel-Leleuly/burger-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuel-Leleuly/burger-api/issues"
+  },
+  "homepage": "https://github.com/Manuel-Leleuly/burger-api#readme"
+}
